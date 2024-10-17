@@ -1,6 +1,6 @@
 ## SETUP
-git clone git@github.com:AKOWAKOU/todo.git &&
-cd todo
+git clone git@github.com:AKOWAKOU/front-end.git &&
+cd front-end
 ## Requirements 
 Node v20.18.0
 ## INSTALLATION
